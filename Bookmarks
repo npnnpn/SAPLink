@@ -1,5 +1,6 @@
-|URL|Name|ID|ID UP|Metadata|
-|https://saptricks.wordpress.com/indice-de-publicaciones/|Notas y trucos SAP (Bitacora)|SAP|SAP|
-|https://saptricks.wordpress.com/2013/03/09/truco-48-liberacion-en-pedidos-de-ventas/|SAP SD|||
+|LINK|Name|ID|PARENT|Metadata|CHILD|NEXT|TLEVEL|
+|https://saptricks.wordpress.com/indice-de-publicaciones/|Notas y trucos SAP (Bitacora)|?|SAP|SAP||||
+|https://saptricks.wordpress.com/2013/03/09/truco-48-liberacion-en-pedidos-de-ventas/|SAP_SD|SAP||||
+
 
 
