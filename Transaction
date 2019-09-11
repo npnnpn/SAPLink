@@ -1,0 +1,178 @@
+|Module|Transaction|Text|
+|OOAW|Evaluation paths|
+|PFAC|Create and maintain Rules|
+|PFOM|Maintain assignment to SAP organizational objects|
+|PFOS|Display assignment to SAP organizational objects|
+|PFSO|Organizational environment of a user|
+|PFTC|Create and maintain tasks|
+|PPOCW 
+|Create organizational plan 
+
+|PPOMW 
+|Maintain organizational plan 
+
+|PPOSW 
+|Display organizational plan 
+
+|SWDA 
+|Workflow Builder (Calls the Workflow Builder in alphanumeric mode) 
+
+|SWDD 
+|Workflow Builder 
+
+|SWDS 
+|Workflow Builder (Selection) 
+
+|SWDD_CONFIG 
+|Workflow configuration 
+
+|SBWP 
+|The Business Workplace 
+
+|SWDC_DEFINITION 
+|Workflow Builder administration data 
+
+|SWDC_RUNTIME 
+|Workflow runtime administration data 
+
+|SWNCONFIG 
+|Extended notifications for business workflow 
+
+|SWDM 
+|Business Workflow Explorer 
+
+|SWEINST 
+|Evaluation and maintenance of instance linkages 
+
+
+ 
+|SWEINSTVC 
+|Evaluation and maintenance of instance linkages 
+|SWE2 
+|Evaluation and maintenance of type linkages 
+|SWE3 
+|Evaluation and maintenance of instance linkages 
+|SWE4 
+|Switch event trace on/off 
+|SWEL 
+|Display event trace 
+|RSWELOGD 
+|Delete event trace 
+|SWEC 
+|Link change documents to events 
+|SWED 
+|Assign change document objects to object types 
+|SWEQADM_1 
+|Event queue administration 
+|SWEQBROWSER 
+|Administration of event queue browser 
+|SWETYPV 
+|Evaluation and maintenance of type linkages 
+|SWI1 
+|Selection report for work items 
+|SWI2_FREQ 
+|Work items per task 
+|SWI2_DEAD 
+|Work items with monitored deadlines 
+|SWI2_DURA 
+|Work items by processing duration 
+|SWI11 
+|Tasks in workflows 
+|SWI13 
+|Task profile 
+|SWI5 
+|Workload analysis 
+|SWL1 
+|Settings for dynamic columns 
+|SWLV 
+|Maintain work item views 
+|SWFVISU 
+|Parameters for Work Item Visualization in the UWL 
+|SWO1 
+|Business Object Builder 
+|SWO6 
+|Customizing object types 
+|SWR_WEBSERVER 
+|Customizing Web server 
+|SWU_CONT_PERSISTENCE 
+|Administration of container persistence 
+|SWU_EWCD 
+|Wizard for event creation using change documents 
+|SWU_EWLIS 
+|Wizard for event creation using the Logistics Information System 
+|SWU_BTE 
+|Wizard for event creation using Business Transaction Events 
+|SWU0 
+|Event simulation 
+|SWU2 
+|RFC monitor 
+|SWU3 
+|Automatic Workflow Customizing 
+|SWU4 
+|Consistency check for standard tasks 
+|SWU5 
+|Consistency check for customer tasks 
+|SWU6 
+|Consistency check for workflow tasks 
+|SWU7 
+|Consistency check for workflow templates 
+|SWU8 
+|Switch workflow trace on/off 
+|SWU9 
+|Display workflow trace 
+|SWU10 
+|Delete workflow trace 
+|Transaction Code 
+|Description 
+
+|SWUD 
+|Diagnostic tools 
+
+|SWUE 
+|Trigger event 
+
+|SWUI 
+|Start workflows/tasks 
+
+SWUS 
+Testing workflows/tasks 
+
+SWXML 
+Display XML documents 
+
+SWUY 
+Wizard for linking messages to workflows 
+
+SWWCOND_INSERT 
+Schedule background job for work item deadline monitoring 
+
+SWWCLEAR_INSERT 
+Schedule background job for clearing tasks 
+
+RSWWCOND 
+Execute single background job for work item deadline monitoring 
+
+RSWWCLEAR 
+Execute work item clearing work once 
+
+WF_HANDCUST 
+WebFlow service handler maintenance 
+
+WF_EXTSRV 
+Maintain Web Service Repository 
+
+WFWS 
+Import WSDL files 
+
+SWIA 
+WI Administration Report 
+ 
+Sin etiquetas 
+1 Comentario 
+ 
+Mike B.
+Dear Chidanand Chauhan, thanks for your job, yet another list of SAP Workflow Transactions, which contains a little bit different set of SAP WF transactions.
+ago 07, 2015
+Follow SCN 
+Contact Us SAP Help Portal 
+Privacy Terms of Use Legal Disclosure Copyright Preferencias para cookies 
